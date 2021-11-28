@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kyosuke27.github.io/csb-v6y4m/static/css/main.249edbc4.chunk.css",
+    "main.js": "https://kyosuke27.github.io/csb-v6y4m/static/js/main.f34f64b3.chunk.js",
+    "main.js.map": "https://kyosuke27.github.io/csb-v6y4m/static/js/main.f34f64b3.chunk.js.map",
+    "runtime-main.js": "https://kyosuke27.github.io/csb-v6y4m/static/js/runtime-main.a032ab0d.js",
+    "runtime-main.js.map": "https://kyosuke27.github.io/csb-v6y4m/static/js/runtime-main.a032ab0d.js.map",
+    "static/js/2.065efdf2.chunk.js": "https://kyosuke27.github.io/csb-v6y4m/static/js/2.065efdf2.chunk.js",
+    "static/js/2.065efdf2.chunk.js.map": "https://kyosuke27.github.io/csb-v6y4m/static/js/2.065efdf2.chunk.js.map",
+    "index.html": "https://kyosuke27.github.io/csb-v6y4m/index.html",
+    "static/css/main.249edbc4.chunk.css.map": "https://kyosuke27.github.io/csb-v6y4m/static/css/main.249edbc4.chunk.css.map",
+    "static/js/2.065efdf2.chunk.js.LICENSE.txt": "https://kyosuke27.github.io/csb-v6y4m/static/js/2.065efdf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a032ab0d.js",
+    "static/js/2.065efdf2.chunk.js",
+    "static/css/main.249edbc4.chunk.css",
+    "static/js/main.f34f64b3.chunk.js"
+  ]
+}
